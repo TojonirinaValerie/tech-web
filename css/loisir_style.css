@@ -1,0 +1,31 @@
+#ml{
+    width: 320px;
+}
+#fr{
+    width: 250px;
+}
+#anglais{
+    width: 150px;
+}
+
+#ic-game, #ic-soccer{
+    width: 30px;
+    margin-right: 10px;
+}
+
+.liste-2{
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+.unstyled{
+    list-style: none;
+    padding-left: 10px;
+}
+
+.lst-block{
+    width: 320px;
+    background-color: rgb(31, 31, 31);
+    margin: 10px;
+    padding: 5px 30px;
+    border-radius: 50px;
+}

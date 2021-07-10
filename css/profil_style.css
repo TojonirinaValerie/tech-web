@@ -1,0 +1,45 @@
+
+.block-profil{
+    padding: 5px 10px;
+}
+
+#profil{
+    width: 200px;
+}
+
+.block-nom, .block-img-profil{
+    padding: 5px;
+}
+
+#nom-complet{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+#fonction{
+    font-size: 16px;
+}
+.block-profil1{
+    background-color: rgb(31, 31, 31);
+    width: 100%;
+    padding: 5px 10px;
+    margin: auto;
+}
+.block-profil2{
+    text-align: center;
+    color: rgb(242, 108, 79);
+    font-size: 20px;
+}
+.cle, .valeur{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.cle{
+    color: rgb(236, 236, 75);
+    width: 150px;
+}
+.orange{
+    text-align: center;
+    color: rgb(242, 108, 79);
+}

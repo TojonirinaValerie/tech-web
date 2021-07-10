@@ -1,0 +1,90 @@
+body{
+    
+    background-color: #ccc;
+    margin: 0 15px;
+    color: #fff;
+    background-image: url("../images/60629281-résumé-tête-numérique-du-site-web-technologie-de-bannière-fond.jpg");
+    background-size: cover;
+}
+.menu{
+    position: absolute;
+    width: 500px;
+    background-color: rgb(40, 40, 40);
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(242, 108, 79);
+    border: solid 1px rgb(242, 108, 79);
+}
+
+.containers{
+    margin-top: 50px;
+}
+#panel1{
+    left: 250px;
+    z-index: 3;
+    height: 500px;
+}
+#panel2{
+    left: 350px;
+    z-index: 4;
+    height: 500px;
+}
+#panel3{
+    left: 450px;
+    z-index: 5;
+    height: 500px;
+    margin-top: 0;
+}
+#panel4{
+    left: 550px;
+    z-index: 4;
+    height: 500px;
+}
+#panel5{
+    left: 650px;
+    z-index: 3;
+    height: 500px;
+}
+.menu-title{
+    text-align: center;
+    color: rgb(242, 108, 79);
+    padding-top: 10px;
+    margin: 5px 0;
+}
+.barre-note{
+    background-color: rgb(31, 31, 31);
+    height: 7px;
+    width: 350px;
+    margin: 5px;
+    padding: 1px;
+    padding-left: 1px;
+}
+.note{
+    background-color: rgb(236, 236, 75);
+    height: 5px;
+}
+.block-block{
+    width: 400px;
+    background-color: rgb(31, 31, 31);
+    margin: 10px auto;
+    padding: 5px 30px;
+    border-radius: 50px;
+}
+
+.icone{
+    height: 30px;
+    margin-right: 10px;
+}
+.block-icone, .block-texte{
+    display: inline-block;
+    vertical-align: middle;
+}
+.block-texte{
+    color: #fff;
+}
+#lien:hover{
+    color: rgb(242, 108, 79);
+}
+#ic-gmail{
+    border-radius: 15px;
+}
